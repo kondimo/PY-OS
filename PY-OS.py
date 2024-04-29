@@ -5,7 +5,7 @@ from json import load
 import ascii
 
 # Initializaton
-version = "Alpha 1.0"
+version = "Alpha 0.20"
 
 # Setup
 current_user = username = input("Please set username: ")
